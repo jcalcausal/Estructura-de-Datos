@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/BiPartiteDemo.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/dictionary/HashDictionary.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/graph/BiPartite.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/graph/DictionaryGraph.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/graph/Graph.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/graph/GraphException.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/graph/Traversable.java" charset="windows-1252" />
+  </component>
+</project>

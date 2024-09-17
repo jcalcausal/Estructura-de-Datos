@@ -1,0 +1,5 @@
+digraph "Seq-m" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+2094548358 [label="m"];
+}

@@ -1,0 +1,13 @@
+digraph "Seq-amas" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+159413332 [label="a"];
+159413332 -> 960604060;
+960604060 [label="m"];
+159413332 -> 1028214719;
+1028214719 [label="a"];
+1028214719 -> 500977346;
+500977346 [label="s"];
+l1028214719 [style=invis];
+1028214719 -> l1028214719;
+}

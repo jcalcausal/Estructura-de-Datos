@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c354c0a6-cd8d-4167-8939-0b982d2fb11c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TyJFzOPlwlfrXqq1mgzeFjuTWS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/MM/Desktop/Estudios/Universidad/DOBLE GRADO MATEMÁTICAS E INFORMÁTICA/SEGUNDO/PRIMER CUATRIMESTRE/ESTRUCTURA DE DATOS/2ª Convocatoria/Tema 4. Árboles/Prácticas/MonticulosMaxiphobic/prMaxiphobic"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MM\Desktop\Estudios\Universidad\DOBLE GRADO MATEMÁTICAS E INFORMÁTICA\SEGUNDO\PRIMER CUATRIMESTRE\ESTRUCTURA DE DATOS\2ª Convocatoria\Tema 4. Árboles\Prácticas\MonticulosMaxiphobic\prMaxiphobic\src" />
+      <recent name="C:\Users\MM\Desktop\Estudios\Universidad\DOBLE GRADO MATEMÁTICAS E INFORMÁTICA\SEGUNDO\PRIMER CUATRIMESTRE\ESTRUCTURA DE DATOS\2ª Convocatoria\Tema 4. Árboles\Prácticas\MonticulosMaxiphobic\prMaxiphobic" />
+      <recent name="C:\Users\MM\Desktop\Estudios\Universidad\DOBLE GRADO MATEMÁTICAS E INFORMÁTICA\SEGUNDO\PRIMER CUATRIMESTRE\ESTRUCTURA DE DATOS\2ª Convocatoria\Tema 4. Árboles\Prácticas\MonticulosMaxiphobic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MaxiphobicHeapDemos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxiphobicHeapDemos" />
+      <module name="prMaxiphobic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxiphobicHeapDemos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c354c0a6-cd8d-4167-8939-0b982d2fb11c" name="Changes" comment="" />
+      <created>1692009287833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692009287833</updated>
+    </task>
+    <servers />
+  </component>
+</project>

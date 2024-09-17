@@ -1,0 +1,1971 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" height="266" width="1187" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.11.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd">
+<g style="fill:rgb(255,255,255)">
+ <polygon points="0.0,0.0 1187.0,0.0 1187.0,266.0 0.0,266.0"/>
+</g>
+<g style="stroke:rgb(0,0,0);fill:rgb(255,255,255)">
+ <g transform="translate(593.5,133.0) scale(1.0,-1.0)">
+  <g transform="translate(-576.0,128.0)">
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(578.0,-16.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(576.0,-14.0)">
+     <line x1="0" y1="0" x2="288.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(576.0,-14.0)">
+     <line x1="0" y1="0" x2="-288.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(576.0,-14.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(576.0,-20.0)">
+     <g transform="scale(1 -1)">
+      <text>32</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(866.0,-54.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(864.0,-52.0)">
+     <line x1="0" y1="0" x2="144.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(864.0,-52.0)">
+     <line x1="0" y1="0" x2="-144.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(864.0,-52.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(864.0,-58.0)">
+     <g transform="scale(1 -1)">
+      <text>48</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(1010.0,-92.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(1008.0,-90.0)">
+     <line x1="0" y1="0" x2="72.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(1008.0,-90.0)">
+     <line x1="0" y1="0" x2="-72.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(1008.0,-90.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(1008.0,-96.0)">
+     <g transform="scale(1 -1)">
+      <text>56</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(1082.0,-130.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(1080.0,-128.0)">
+     <line x1="0" y1="0" x2="36.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(1080.0,-128.0)">
+     <line x1="0" y1="0" x2="-36.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(1080.0,-128.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(1080.0,-134.0)">
+     <g transform="scale(1 -1)">
+      <text>60</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(1118.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(1116.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(1116.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(1116.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(1116.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>62</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(1136.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(1134.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(1134.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(1134.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(1134.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>63</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="1141.0,-235.0 1141.0,-229.0 1147.0,-229.0 1147.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="1140.0,-234.0 1140.0,-228.0 1146.0,-228.0 1146.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="1123.0,-235.0 1123.0,-229.0 1129.0,-229.0 1129.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="1122.0,-234.0 1122.0,-228.0 1128.0,-228.0 1128.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(1100.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(1098.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(1098.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(1098.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(1098.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>61</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="1105.0,-235.0 1105.0,-229.0 1111.0,-229.0 1111.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="1104.0,-234.0 1104.0,-228.0 1110.0,-228.0 1110.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="1087.0,-235.0 1087.0,-229.0 1093.0,-229.0 1093.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="1086.0,-234.0 1086.0,-228.0 1092.0,-228.0 1092.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(1046.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(1044.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(1044.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(1044.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(1044.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>58</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(1064.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(1062.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(1062.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(1062.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(1062.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>59</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="1069.0,-235.0 1069.0,-229.0 1075.0,-229.0 1075.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="1068.0,-234.0 1068.0,-228.0 1074.0,-228.0 1074.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="1051.0,-235.0 1051.0,-229.0 1057.0,-229.0 1057.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="1050.0,-234.0 1050.0,-228.0 1056.0,-228.0 1056.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(1028.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(1026.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(1026.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(1026.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(1026.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>57</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="1033.0,-235.0 1033.0,-229.0 1039.0,-229.0 1039.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="1032.0,-234.0 1032.0,-228.0 1038.0,-228.0 1038.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="1015.0,-235.0 1015.0,-229.0 1021.0,-229.0 1021.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="1014.0,-234.0 1014.0,-228.0 1020.0,-228.0 1020.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(938.0,-130.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(936.0,-128.0)">
+     <line x1="0" y1="0" x2="36.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(936.0,-128.0)">
+     <line x1="0" y1="0" x2="-36.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(936.0,-128.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(936.0,-134.0)">
+     <g transform="scale(1 -1)">
+      <text>52</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(974.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(972.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(972.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(972.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(972.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>54</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(992.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(990.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(990.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(990.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(990.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>55</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="997.0,-235.0 997.0,-229.0 1003.0,-229.0 1003.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="996.0,-234.0 996.0,-228.0 1002.0,-228.0 1002.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="979.0,-235.0 979.0,-229.0 985.0,-229.0 985.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="978.0,-234.0 978.0,-228.0 984.0,-228.0 984.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(956.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(954.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(954.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(954.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(954.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>53</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="961.0,-235.0 961.0,-229.0 967.0,-229.0 967.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="960.0,-234.0 960.0,-228.0 966.0,-228.0 966.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="943.0,-235.0 943.0,-229.0 949.0,-229.0 949.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="942.0,-234.0 942.0,-228.0 948.0,-228.0 948.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(902.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(900.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(900.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(900.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(900.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>50</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(920.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(918.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(918.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(918.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(918.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>51</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="925.0,-235.0 925.0,-229.0 931.0,-229.0 931.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="924.0,-234.0 924.0,-228.0 930.0,-228.0 930.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="907.0,-235.0 907.0,-229.0 913.0,-229.0 913.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="906.0,-234.0 906.0,-228.0 912.0,-228.0 912.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(884.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(882.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(882.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(882.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(882.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>49</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="889.0,-235.0 889.0,-229.0 895.0,-229.0 895.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="888.0,-234.0 888.0,-228.0 894.0,-228.0 894.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="871.0,-235.0 871.0,-229.0 877.0,-229.0 877.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="870.0,-234.0 870.0,-228.0 876.0,-228.0 876.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(722.0,-92.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(720.0,-90.0)">
+     <line x1="0" y1="0" x2="72.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(720.0,-90.0)">
+     <line x1="0" y1="0" x2="-72.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(720.0,-90.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(720.0,-96.0)">
+     <g transform="scale(1 -1)">
+      <text>40</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(794.0,-130.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(792.0,-128.0)">
+     <line x1="0" y1="0" x2="36.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(792.0,-128.0)">
+     <line x1="0" y1="0" x2="-36.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(792.0,-128.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(792.0,-134.0)">
+     <g transform="scale(1 -1)">
+      <text>44</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(830.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(828.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(828.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(828.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(828.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>46</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(848.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(846.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(846.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(846.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(846.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>47</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="853.0,-235.0 853.0,-229.0 859.0,-229.0 859.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="852.0,-234.0 852.0,-228.0 858.0,-228.0 858.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="835.0,-235.0 835.0,-229.0 841.0,-229.0 841.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="834.0,-234.0 834.0,-228.0 840.0,-228.0 840.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(812.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(810.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(810.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(810.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(810.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>45</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="817.0,-235.0 817.0,-229.0 823.0,-229.0 823.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="816.0,-234.0 816.0,-228.0 822.0,-228.0 822.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="799.0,-235.0 799.0,-229.0 805.0,-229.0 805.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="798.0,-234.0 798.0,-228.0 804.0,-228.0 804.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(758.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(756.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(756.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(756.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(756.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>42</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(776.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(774.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(774.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(774.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(774.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>43</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="781.0,-235.0 781.0,-229.0 787.0,-229.0 787.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="780.0,-234.0 780.0,-228.0 786.0,-228.0 786.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="763.0,-235.0 763.0,-229.0 769.0,-229.0 769.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="762.0,-234.0 762.0,-228.0 768.0,-228.0 768.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(740.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(738.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(738.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(738.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(738.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>41</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="745.0,-235.0 745.0,-229.0 751.0,-229.0 751.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="744.0,-234.0 744.0,-228.0 750.0,-228.0 750.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="727.0,-235.0 727.0,-229.0 733.0,-229.0 733.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="726.0,-234.0 726.0,-228.0 732.0,-228.0 732.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(650.0,-130.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(648.0,-128.0)">
+     <line x1="0" y1="0" x2="36.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(648.0,-128.0)">
+     <line x1="0" y1="0" x2="-36.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(648.0,-128.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(648.0,-134.0)">
+     <g transform="scale(1 -1)">
+      <text>36</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(686.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(684.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(684.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(684.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(684.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>38</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(704.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(702.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(702.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(702.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(702.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>39</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="709.0,-235.0 709.0,-229.0 715.0,-229.0 715.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="708.0,-234.0 708.0,-228.0 714.0,-228.0 714.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="691.0,-235.0 691.0,-229.0 697.0,-229.0 697.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="690.0,-234.0 690.0,-228.0 696.0,-228.0 696.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(668.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(666.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(666.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(666.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(666.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>37</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="673.0,-235.0 673.0,-229.0 679.0,-229.0 679.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="672.0,-234.0 672.0,-228.0 678.0,-228.0 678.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="655.0,-235.0 655.0,-229.0 661.0,-229.0 661.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="654.0,-234.0 654.0,-228.0 660.0,-228.0 660.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(614.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(612.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(612.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(612.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(612.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>34</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(632.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(630.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(630.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(630.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(630.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>35</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="637.0,-235.0 637.0,-229.0 643.0,-229.0 643.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="636.0,-234.0 636.0,-228.0 642.0,-228.0 642.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="619.0,-235.0 619.0,-229.0 625.0,-229.0 625.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="618.0,-234.0 618.0,-228.0 624.0,-228.0 624.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(596.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(594.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(594.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(594.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(594.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>33</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="601.0,-235.0 601.0,-229.0 607.0,-229.0 607.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="600.0,-234.0 600.0,-228.0 606.0,-228.0 606.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="583.0,-235.0 583.0,-229.0 589.0,-229.0 589.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="582.0,-234.0 582.0,-228.0 588.0,-228.0 588.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(290.0,-54.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(288.0,-52.0)">
+     <line x1="0" y1="0" x2="144.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(288.0,-52.0)">
+     <line x1="0" y1="0" x2="-144.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(288.0,-52.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(288.0,-58.0)">
+     <g transform="scale(1 -1)">
+      <text>16</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(434.0,-92.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(432.0,-90.0)">
+     <line x1="0" y1="0" x2="72.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(432.0,-90.0)">
+     <line x1="0" y1="0" x2="-72.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(432.0,-90.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(432.0,-96.0)">
+     <g transform="scale(1 -1)">
+      <text>24</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(506.0,-130.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(504.0,-128.0)">
+     <line x1="0" y1="0" x2="36.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(504.0,-128.0)">
+     <line x1="0" y1="0" x2="-36.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(504.0,-128.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(504.0,-134.0)">
+     <g transform="scale(1 -1)">
+      <text>28</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(542.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(540.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(540.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(540.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(540.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>30</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(560.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(558.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(558.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(558.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(558.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>31</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="565.0,-235.0 565.0,-229.0 571.0,-229.0 571.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="564.0,-234.0 564.0,-228.0 570.0,-228.0 570.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="547.0,-235.0 547.0,-229.0 553.0,-229.0 553.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="546.0,-234.0 546.0,-228.0 552.0,-228.0 552.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(524.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(522.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(522.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(522.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(522.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>29</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="529.0,-235.0 529.0,-229.0 535.0,-229.0 535.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="528.0,-234.0 528.0,-228.0 534.0,-228.0 534.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="511.0,-235.0 511.0,-229.0 517.0,-229.0 517.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="510.0,-234.0 510.0,-228.0 516.0,-228.0 516.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(470.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(468.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(468.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(468.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(468.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>26</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(488.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(486.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(486.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(486.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(486.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>27</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="493.0,-235.0 493.0,-229.0 499.0,-229.0 499.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="492.0,-234.0 492.0,-228.0 498.0,-228.0 498.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="475.0,-235.0 475.0,-229.0 481.0,-229.0 481.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="474.0,-234.0 474.0,-228.0 480.0,-228.0 480.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(452.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(450.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(450.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(450.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(450.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>25</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="457.0,-235.0 457.0,-229.0 463.0,-229.0 463.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="456.0,-234.0 456.0,-228.0 462.0,-228.0 462.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="439.0,-235.0 439.0,-229.0 445.0,-229.0 445.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="438.0,-234.0 438.0,-228.0 444.0,-228.0 444.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(362.0,-130.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(360.0,-128.0)">
+     <line x1="0" y1="0" x2="36.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(360.0,-128.0)">
+     <line x1="0" y1="0" x2="-36.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(360.0,-128.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(360.0,-134.0)">
+     <g transform="scale(1 -1)">
+      <text>20</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(398.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(396.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(396.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(396.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(396.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>22</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(416.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(414.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(414.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(414.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(414.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>23</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="421.0,-235.0 421.0,-229.0 427.0,-229.0 427.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="420.0,-234.0 420.0,-228.0 426.0,-228.0 426.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="403.0,-235.0 403.0,-229.0 409.0,-229.0 409.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="402.0,-234.0 402.0,-228.0 408.0,-228.0 408.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(380.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(378.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(378.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(378.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(378.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>21</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="385.0,-235.0 385.0,-229.0 391.0,-229.0 391.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="384.0,-234.0 384.0,-228.0 390.0,-228.0 390.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="367.0,-235.0 367.0,-229.0 373.0,-229.0 373.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="366.0,-234.0 366.0,-228.0 372.0,-228.0 372.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(326.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(324.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(324.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(324.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(324.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>18</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(344.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(342.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(342.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(342.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(342.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>19</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="349.0,-235.0 349.0,-229.0 355.0,-229.0 355.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="348.0,-234.0 348.0,-228.0 354.0,-228.0 354.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="331.0,-235.0 331.0,-229.0 337.0,-229.0 337.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="330.0,-234.0 330.0,-228.0 336.0,-228.0 336.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(308.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(306.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(306.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(306.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(306.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>17</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="313.0,-235.0 313.0,-229.0 319.0,-229.0 319.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="312.0,-234.0 312.0,-228.0 318.0,-228.0 318.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="295.0,-235.0 295.0,-229.0 301.0,-229.0 301.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="294.0,-234.0 294.0,-228.0 300.0,-228.0 300.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(146.0,-92.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(144.0,-90.0)">
+     <line x1="0" y1="0" x2="72.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(144.0,-90.0)">
+     <line x1="0" y1="0" x2="-72.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(144.0,-90.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(144.0,-96.0)">
+     <g transform="scale(1 -1)">
+      <text>8</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(218.0,-130.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(216.0,-128.0)">
+     <line x1="0" y1="0" x2="36.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(216.0,-128.0)">
+     <line x1="0" y1="0" x2="-36.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(216.0,-128.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(216.0,-134.0)">
+     <g transform="scale(1 -1)">
+      <text>12</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(254.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(252.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(252.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(252.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(252.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>14</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(272.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(270.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(270.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(270.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(270.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>15</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="277.0,-235.0 277.0,-229.0 283.0,-229.0 283.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="276.0,-234.0 276.0,-228.0 282.0,-228.0 282.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="259.0,-235.0 259.0,-229.0 265.0,-229.0 265.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="258.0,-234.0 258.0,-228.0 264.0,-228.0 264.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(236.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(234.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(234.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(234.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(234.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>13</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="241.0,-235.0 241.0,-229.0 247.0,-229.0 247.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="240.0,-234.0 240.0,-228.0 246.0,-228.0 246.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="223.0,-235.0 223.0,-229.0 229.0,-229.0 229.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="222.0,-234.0 222.0,-228.0 228.0,-228.0 228.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(182.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(180.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(180.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(180.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(180.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>10</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(200.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(198.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(198.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(198.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(198.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>11</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="205.0,-235.0 205.0,-229.0 211.0,-229.0 211.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="204.0,-234.0 204.0,-228.0 210.0,-228.0 210.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="187.0,-235.0 187.0,-229.0 193.0,-229.0 193.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="186.0,-234.0 186.0,-228.0 192.0,-228.0 192.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(164.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(162.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(162.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(162.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(162.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>9</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="169.0,-235.0 169.0,-229.0 175.0,-229.0 175.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="168.0,-234.0 168.0,-228.0 174.0,-228.0 174.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="151.0,-235.0 151.0,-229.0 157.0,-229.0 157.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="150.0,-234.0 150.0,-228.0 156.0,-228.0 156.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(74.0,-130.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(72.0,-128.0)">
+     <line x1="0" y1="0" x2="36.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(72.0,-128.0)">
+     <line x1="0" y1="0" x2="-36.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(72.0,-128.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(72.0,-134.0)">
+     <g transform="scale(1 -1)">
+      <text>4</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(110.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(108.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(108.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(108.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(108.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>6</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(128.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(126.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(126.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(126.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(126.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>7</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="133.0,-235.0 133.0,-229.0 139.0,-229.0 139.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="132.0,-234.0 132.0,-228.0 138.0,-228.0 138.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="115.0,-235.0 115.0,-229.0 121.0,-229.0 121.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="114.0,-234.0 114.0,-228.0 120.0,-228.0 120.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(92.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(90.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(90.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(90.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(90.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>5</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="97.0,-235.0 97.0,-229.0 103.0,-229.0 103.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="96.0,-234.0 96.0,-228.0 102.0,-228.0 102.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="79.0,-235.0 79.0,-229.0 85.0,-229.0 85.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="78.0,-234.0 78.0,-228.0 84.0,-228.0 84.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(38.0,-168.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(36.0,-166.0)">
+     <line x1="0" y1="0" x2="18.0" y2="-38.0"/>
+    </g>
+    <g transform="translate(36.0,-166.0)">
+     <line x1="0" y1="0" x2="-18.0" y2="-38.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(36.0,-166.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(36.0,-172.0)">
+     <g transform="scale(1 -1)">
+      <text>2</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(56.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(54.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(54.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(54.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(54.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>3</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="61.0,-235.0 61.0,-229.0 67.0,-229.0 67.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="60.0,-234.0 60.0,-228.0 66.0,-228.0 66.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="43.0,-235.0 43.0,-229.0 49.0,-229.0 49.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="42.0,-234.0 42.0,-228.0 48.0,-228.0 48.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153)">
+    <g transform="translate(20.0,-206.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(0,112,191);stroke-width:2.0">
+    <g transform="translate(18.0,-204.0)">
+     <line x1="0" y1="0" x2="9.0" y2="-27.0"/>
+    </g>
+    <g transform="translate(18.0,-204.0)">
+     <line x1="0" y1="0" x2="-9.0" y2="-27.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:2.5">
+    <g transform="translate(18.0,-204.0)">
+     <path d="M 13.999993000000583 -1.3999997666674889e-2 A 14.0 14.0 0 1 0 14.0 0.0"/>
+    </g>
+   </g>
+   <g style="stroke:rgb(204,0,0);fill:rgb(204,0,0);text-anchor:middle;font-family:Arial;font-size:17.5px">
+    <g transform="translate(18.0,-210.0)">
+     <g transform="scale(1 -1)">
+      <text>1</text>
+     </g>
+    </g>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="25.0,-235.0 25.0,-229.0 31.0,-229.0 31.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="24.0,-234.0 24.0,-228.0 30.0,-228.0 30.0,-234.0"/>
+   </g>
+   <g style="stroke:rgb(153,153,153);fill:rgb(153,153,153);stroke-width:1.5">
+    <polygon points="7.0,-235.0 7.0,-229.0 13.0,-229.0 13.0,-235.0"/>
+   </g>
+   <g style="stroke:rgb(102,178,104);fill:rgb(175,244,175);stroke-width:1.5">
+    <polygon points="6.0,-234.0 6.0,-228.0 12.0,-228.0 12.0,-234.0"/>
+   </g>
+  </g>
+ </g>
+</g>
+</svg>

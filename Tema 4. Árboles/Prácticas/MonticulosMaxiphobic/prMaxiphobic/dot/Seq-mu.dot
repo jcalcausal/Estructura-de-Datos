@@ -1,0 +1,9 @@
+digraph "Seq-mu" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+51228289 [label="m"];
+51228289 -> 455896770;
+455896770 [label="u"];
+l51228289 [style=invis];
+51228289 -> l51228289;
+}

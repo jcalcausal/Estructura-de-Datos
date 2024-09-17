@@ -1,0 +1,13 @@
+digraph "Seq-murci" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+1721931908 [label="c"];
+1721931908 -> 1323165413;
+1323165413 [label="m"];
+1323165413 -> 455896770;
+455896770 [label="u"];
+1323165413 -> 1880587981;
+1880587981 [label="r"];
+1721931908 -> 1198108795;
+1198108795 [label="i"];
+}

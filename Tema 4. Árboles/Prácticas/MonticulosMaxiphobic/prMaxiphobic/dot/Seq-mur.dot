@@ -1,0 +1,9 @@
+digraph "Seq-mur" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+1323165413 [label="m"];
+1323165413 -> 455896770;
+455896770 [label="u"];
+1323165413 -> 1880587981;
+1880587981 [label="r"];
+}

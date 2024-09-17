@@ -1,0 +1,33 @@
+is empty = true
+size = 380
+Bag(( , 65) (,, 9) (., 2) (E, 1) (M, 1) (U, 1) (a, 40) (b, 3) (c, 13) (d, 17) (e, 27) (f, 1) (g, 9) (h, 6) (i, 12) (j, 1) (l, 22) (m, 9) (n, 24) (o, 31) (p, 4) (q, 4) (r, 18) (s, 22) (t, 7) (u, 14) (v, 4) (y, 3) (z, 1) (á, 3) (í, 3) (ñ, 1) (ó, 1) (ú, 1))
+a occurs 40 times
+e occurs 27 times
+i occurs 12 times
+o occurs 31 times
+u occurs 14 times
+Bag(( , 58) (,, 9) (., 2) (U, 1) (a, 35) (b, 3) (c, 9) (d, 16) (e, 24) (f, 1) (g, 8) (h, 5) (i, 11) (l, 22) (m, 8) (n, 23) (o, 30) (p, 4) (q, 4) (r, 18) (s, 22) (t, 7) (u, 10) (v, 3) (y, 2) (z, 1) (á, 3) (í, 3) (ñ, 1) (ó, 1) (ú, 1))
+a occurs 35 times
+e occurs 24 times
+i occurs 11 times
+o occurs 30 times
+u occurs 10 times
+Bag((U, 1) (a, 35) (b, 3) (c, 9) (d, 16) (e, 24) (f, 1) (g, 8) (h, 5) (i, 11) (l, 22) (m, 8) (n, 23) (o, 30) (p, 4) (q, 4) (r, 18) (s, 22) (t, 7) (u, 10) (v, 3) (y, 2) (z, 1) (á, 3) (í, 3) (ñ, 1) (ó, 1) (ú, 1))
+a occurs 35 times
+e occurs 24 times
+i occurs 11 times
+o occurs 30 times
+u occurs 10 times
+Bag((U, 1) (a, 35) (b, 3) (c, 9) (d, 16) (e, 24) (f, 1) (g, 8) (h, 5) (i, 11) (l, 22) (m, 8) (n, 23) (o, 30) (p, 4) (q, 4) (r, 18) (s, 22) (t, 7) (á, 3) (í, 3) (ñ, 1) (ó, 1) (ú, 1))
+a occurs 35 times
+e occurs 24 times
+i occurs 11 times
+o occurs 30 times
+u occurs 0 times
+a occurs 0 times
+e occurs 0 times
+i occurs 0 times
+o occurs 0 times
+u occurs 0 times
+size = 160
+is empty = false

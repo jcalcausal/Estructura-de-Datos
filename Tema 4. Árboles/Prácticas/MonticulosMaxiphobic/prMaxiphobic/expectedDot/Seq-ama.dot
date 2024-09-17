@@ -1,0 +1,9 @@
+digraph "Seq-ama" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+821270929 [label="a"];
+821270929 -> 2061475679;
+2061475679 [label="m"];
+821270929 -> 140435067;
+140435067 [label="a"];
+}

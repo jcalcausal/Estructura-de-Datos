@@ -1,0 +1,9 @@
+digraph "Seq-am" {
+node [fontname="Arial", fontcolor=red, shape=circle, style=filled, color="#66B268", fillcolor="#AFF4AF" ];
+edge [color = "#0070BF"];
+666641942 [label="a"];
+666641942 -> 960604060;
+960604060 [label="m"];
+l666641942 [style=invis];
+666641942 -> l666641942;
+}
