@@ -91,43 +91,43 @@ import           Data.Char
 
    Escribe las siguientes expresiones en notación currificada:
 
-    f(x+y)     ----->
+    f(x+y)     ----->	f (x+y)
 
-    f(x+1,y)   ----->
+    f(x+1,y)   ----->	f (x+1) y
 
-    f(2*x,y+1) ----->
+    f(2*x,y+1) ----->	f (2*x) (y+1)
 
-    f(g(x))    ----->
+    f(g(x))    ----->	f (g x)
 
-    f(x,g(y))  ----->
+    f(x,g(y))  ----->	f x (g y)
 
-    g(f(x,y))  ----->
+    g(f(x,y))  ----->	g (f x y)
 
-    g(x)+y     ----->
+    g(x)+y     ----->	(g x) + y
 
-    f(x)*g(x)  ----->
+    f(x)*g(x)  ----->	f x * g x
 
-    f(x,y) + u*v   ----->
+    f(x,y) + u*v   ----->	f x y + u*v
 
-    max(max(x,y+1), max(z,-z))  ----->
+    max(max(x,y+1), max(z,-z))  ----->	max (max x (y+1)) (max z (-z))
 
    * Ejercicios de descurrificación
 
    Escribe las siguientes expresiones currificadas en la notación habitual:
 
-    f 2 + 3 - g x y + 7   ---->
+    f 2 + 3 - g x y + 7   ---->		f (2) + 3 - g (x, y) + 7
 
-    g (2+x) y * 6         ---->
+    g (2+x) y * 6         ---->		g (2+x, y) * 6
 
-    f g x                 ---->
+    f g x                 ---->		f (g, x)
 
-    f (g x)               ---->
+    f (g x)               ---->		f (g(x))
 
-    f f f x               ---->
+    f f f x               ---->		f (f, f, x)
 
-    max (abs (-7)) 6*x    ---->
+    max (abs (-7)) 6*x    ---->		max (abs (-7), 6) * x
 
-    x f                   ---->
+    x f                   ---->		x (f)
 -}
 
 -- | 3. Definición de funciones
@@ -148,6 +148,8 @@ import           Data.Char
 
 -}
 
+twice :: Integer -> Integer
+twice x = 2*x
 
 -- |
 -- >>> second 7 3
@@ -161,6 +163,8 @@ import           Data.Char
 
 -}
 
+second :: Integer -> Integer -> Integer
+second x y = y
 
 -- |
 -- >>> square 5
@@ -190,7 +194,7 @@ square x = x * x
 -}
 
 pythagoras :: Integer -> Integer -> Integer
-pythagoras x y = undefined
+pythagoras x y = square x + square y
 
 -- | 4. Condicionales
 ------------------------------------------------------------
@@ -210,7 +214,7 @@ pythagoras x y = undefined
 -- 6
 
 máximo :: Integer -> Integer -> Integer -- predefinida como max
-máximo x y = undefined
+máximo x y = if x>y then x else y
 
 -- |
 -- >>> máximoDeTres 7 9 2
@@ -219,7 +223,8 @@ máximo x y = undefined
 -- 17
 
 máximoDeTres :: Int -> Int -> Int -> Int
-máximoDeTres x y z = undefined
+máximoDeTres x y z = if s > z then s else z
+    where s = max x y
 
 -- |
 -- >>> signo 6
@@ -230,7 +235,7 @@ máximoDeTres x y z = undefined
 -- 0
 
 signo :: Integer -> Integer -- predefinida como signum
-signo x = undefined
+signo x = if x>0 then 1 else if x<0 then -1 else 0
 
 {-
    Además del if then else, Haskell soporta guardas (similar a las
@@ -239,10 +244,13 @@ signo x = undefined
 -}
 
 máximoDeTres' :: Int -> Int -> Int -> Int
-máximoDeTres' x y z = undefined
+máximoDeTres' x y z | x<=y = max y z
+                    | otherwise = max x z
 
 signo' :: Integer -> Integer
-signo' x = undefined
+signo' x | x<0 = -1
+         | x>0 = 1
+         | otherwise = 0
 
 -- Las funciones Haskell pueden ser recursivas; es decir, invocarse a sí mismas
 
@@ -253,7 +261,9 @@ signo' x = undefined
 -- 1
 
 factorial :: Integer -> Integer
-factorial x = undefined
+factorial x | x < 0 = error "Factorial no definido para números negativos"
+            | x <= 1 = 1
+            | otherwise = x * factorial (x-1)
 
 -- | 5. Dualidad función/operador
 ------------------------------------------------------------
