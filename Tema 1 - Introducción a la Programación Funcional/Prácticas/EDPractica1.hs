@@ -2,7 +2,7 @@
 -- Estructuras de Datos. 2º ETSI Informática. UMA
 -- Práctica 1
 --
--- Alumno: APELLIDOS, NOMBRE
+-- Alumno: Alcausa Luque, Juan Carlos
 -------------------------------------------------------------------------------
 
 module EDPractica1 where
@@ -14,7 +14,7 @@ import           Test.QuickCheck
 -------------------------------------------------------------------------------
 
 intercambia :: (a,b) -> (b,a)
-intercambia = undefined -- completar
+intercambia (x, y) = (y, x)
 
 -------------------------------------------------------------------------------
 -- Ejercicio 3 - ordena2 y ordena3

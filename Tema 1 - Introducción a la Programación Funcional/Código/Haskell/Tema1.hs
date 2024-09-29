@@ -325,15 +325,17 @@ tuplaAnidada = (1, ('A', 65))
 -- >>> sucPred 5
 -- (6,4)
 
-sucPred :: undefined
-sucPred = undefined
+sucPred :: Integer -> (Integer, Integer)
+sucPred x = (x+1, x-1)
 
 -- |
 -- >>> códigosDe 'a'
 -- (65,97)
 
-códigosDe :: undefined
-códigosDe = undefined
+códigosDe :: Char -> (Int, Int)
+códigosDe c = (ord(toUpper(c)), ord(toLower(c)))
+
+--ord(c) devuelve el código ASCII de un char c
 
 {-
 
@@ -344,17 +346,17 @@ códigosDe = undefined
    expresiones:
 
 
-     (2 `div` 3, True, 'z')  ::
+     (2 `div` 3, True, 'z')  :: (Int, Bool, Char)
 
-     ( 1 < 2, if 5 < 7 then 'a' else 'b', -1, (7, 'c')) ::
+     ( 1 < 2, if 5 < 7 then 'a' else 'b', -1, (7, 'c')) :: (Bool, Char, Int, (Int, Char))
 
-     (8, (), toLower 'A') ::
+     (8, (), toLower 'A') :: (Int, (), Char)
 
-     (8, ('a'), toLower 'A') ::
+     (8, ('a'), toLower 'A') :: (Int, Char, Char)
 
-     (8, (()), toLower 'A') ::
+     (8, (()), toLower 'A') :: (Int, (), Char)
 
-     ( (ord 'a', ord 'z') , (ord 'A', ord 'Z') ) ::
+     ( (ord 'a', ord 'z') , (ord 'A', ord 'Z') ) :: ((Int, Int), (Int, Int))
 -}
 
 -- | 8. Funciones monomórficas
@@ -416,8 +418,8 @@ primeroB (x,y) = x
         identidad x = x
 -}
 
-identidad :: undefined -- predefinida como id
-identidad = undefined
+identidad :: a -> a -- predefinida como id
+identidad x = x
 
 {-
    Las funciones monomórficas primeroI, primeroC, primeroB son
@@ -434,8 +436,8 @@ identidad = undefined
 -- >>> primero ( 1 < 2, 2 > 3)
 -- True
 
-primero :: undefined -- predefinida como fst
-primero = undefined
+primero :: (a,b) -> a -- predefinida como fst
+primero (x, y) = x
 
 -- |
 -- >>> segundo (6,8)
@@ -447,8 +449,8 @@ primero = undefined
 -- >>> segundo ( 1 < 2, 2 > 3)
 -- False
 
-segundo :: undefined -- predefinida como snd
-segundo = undefined
+segundo :: (a,b) -> b -- predefinida como snd
+segundo (x, y) = y
 
 -- | 10. Funciones sobrecargadas
 ------------------------------------------------------------
@@ -460,8 +462,9 @@ segundo = undefined
 -- >>> iguales ('h', 'o') ('l', 'a')
 -- False
 
-iguales :: undefined
-iguales = undefined
+iguales :: Eq a => (a, a) -> Bool
+iguales (x, y) | x == y = True
+               | otherwise = False
 
 {-
    En Java puedo restringir un tipo genérico:
@@ -482,16 +485,16 @@ iguales = undefined
 -- False
 
 -- ambos componentes de la tupla tienen el mismo tipo
-sonSimétricos :: undefined
-sonSimétricos = undefined
+sonSimétricos :: (Eq a) => (a, a) -> (a,a) -> Bool
+sonSimétricos (x, y) (s, t) = x==t && y==s
 
 -- |
 -- >>> sonSimétricos' (True, 3) (3, True)
 -- True
 
 -- ambos componentes de la tupla pueden tener tipos distintos
-sonSimétricos' :: undefined
-sonSimétricos' = undefined
+sonSimétricos' :: (Eq a, Eq b) => (a, b) -> (b, a) -> Bool
+sonSimétricos' (x, y) (s, t) = x==t && y==s
 
 -- |
 -- >>> estáOrdenada (6,8)
@@ -499,8 +502,8 @@ sonSimétricos' = undefined
 -- >>> estáOrdenada ('c','a')
 -- False
 
-estáOrdenada :: undefined
-estáOrdenada = undefined
+estáOrdenada :: (Ord a) => (a, a) -> Bool
+estáOrdenada (x, y) = x <= y
 
 -- | 11. Funciones parciales
 ------------------------------------------------------------
@@ -523,7 +526,8 @@ estáOrdenada = undefined
 -- *** Exception: inverso: división por cero
 
 inverso :: Double -> Double  -- predefinida como recip
-inverso = undefined
+inverso x | x == 0 = error "Función no definida para 0"
+          | otherwise = 1 / x
 
 -- | 12. Definiciones locales
 ------------------------------------------------------------

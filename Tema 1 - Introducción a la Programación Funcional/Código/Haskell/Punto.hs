@@ -2,7 +2,7 @@
 -- Estructuras de Datos
 -- Grado en Ingeniería Informática, del Software y de Computadores
 -- Tema 1. Introducción a la Programación Funcional
--- Pablo López
+-- Juan Carlos Alcausa Luque
 -------------------------------------------------------------------
 
 module Punto where
