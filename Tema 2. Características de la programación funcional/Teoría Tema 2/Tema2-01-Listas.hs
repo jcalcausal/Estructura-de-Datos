@@ -663,12 +663,12 @@ ordenada (x:y:xs) = x<=y && ordenada xs
    en algunos casos puede ser más eficiente (ver transparencias).
 -}
 
+
 suma' :: [Integer] -> Integer
 suma' xs = sumaAc xs 0
-   where
-      sumaAc [] ac = ac
-      sumaAc (x:xs) ac = sumaAc xs (x+ac)
-
+    where
+        sumaAc [] ac = ac
+        sumaAc (x:xs) ac = sumaAc xs (ac + x)
 -- |
 -- >>> longitud' [1,2,3]
 -- 3

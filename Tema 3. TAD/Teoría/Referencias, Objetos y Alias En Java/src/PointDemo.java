@@ -31,7 +31,7 @@ public class PointDemo {
         ///// A
         System.out.println("*** A:");
         System.out.println("x= " + x);
-        System.exit(0); // detener programa
+        //System.exit(0); // detener programa
 
         Point y = x; // alias
 
@@ -41,7 +41,7 @@ public class PointDemo {
         System.out.println("*** B:");
         System.out.println("x= " + x);
         System.out.println("y= " + y);
-        System.exit(0); // detener programa
+        //System.exit(0); // detener programa
 
         x = null;
 
@@ -49,7 +49,7 @@ public class PointDemo {
         System.out.println("*** C:");
         System.out.println("x= " + x);
         System.out.println("y= " + y);
-        System.exit(0); // detener programa
+        //System.exit(0); // detener programa
 
         Point z = new Point(1, 3);
         List<Point> points = new ArrayList<>();
@@ -60,7 +60,7 @@ public class PointDemo {
         ///// D
         System.out.println("*** D:");
         System.out.println("points= " + points);
-        System.exit(0); // detener programa
+        //System.exit(0); // detener programa
 
         y.move(-3, -3);
 
