@@ -23,7 +23,6 @@ public class DictionaryStringTrieDemo {
         trie.insert("toe",5);
         System.out.println("\nSampleTrie built with constructor and insert");
         System.out.println(trie);  // same as sampleTrie
-
         System.out.println("Strings = " +sampleTrie.strings());
 
         List<String> list = new ArrayList<>();

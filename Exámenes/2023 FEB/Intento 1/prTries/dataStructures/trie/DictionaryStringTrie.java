@@ -35,30 +35,34 @@ public class DictionaryStringTrie<V> {
 
   // | = Exercise a - constructor
   public DictionaryStringTrie() {
-    // TODO
+    root = null;
   }
 
   // | = Exercise b - isEmpty
   public boolean isEmpty() {
-    // TODO
-    return false;
+    return root == null;
   }
 
   // | = Exercise c - sizeValue
   protected static <V> int sizeValue(V value) {
-    // TODO
-    return 0;
+    return value==null ? 0 : 1;
   }
 
   // | = Exercise d - size
   public int size() {
-    // TODO
-    return 0;
+    return size(root);
   }
 
   protected static <V> int size(Node<V> node) {
-    // TODO
-    return 0;
+      if (node == null)
+          return (0);
+      int count = 0;
+      if (node.value != null)
+          count = 1;
+      for (Node<V> child : node.children.values()){
+          count += size(child);
+      }
+      return count;
   }
 
   // | = Exercise e - childOf
