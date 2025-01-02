@@ -92,7 +92,8 @@ addAll c xs = aux c xs Empty
         aux c (x:xs) sol = aux c xs (addFirst c x sol)
 
 toList :: AVL -> [Bin]
-toList _ = undefined
+toList Empty = []
+toList (Node x h cp lt rt) = toList lt ++ [x] ++ toList rt
 
 {-
     SOLO PARA ALUMNOS SIN EVALUACION CONTINUA
@@ -102,7 +103,17 @@ toList _ = undefined
 data Sequence = SEmpty | SNode Bin Sequence deriving Show  
 
 linearBinPacking:: Capacity -> [Weight] -> Sequence
-linearBinPacking _ _ = undefined
+linearBinPacking _ [] = SEmpty
+linearBinPacking w (x:xs)
+    | x > w = error "El objeto excede la capacidad de los cubos"
+    | otherwise = aux (B w []) x (linearBinPacking w xs)
+        where
+            aux (B w weights) x SEmpty
+                | x <= w = SNode (B (w - x) (weights ++ [x])) SEmpty
+                | otherwise = SNode (B w weights) (aux (B w []) x SEmpty)
+            aux (B w weights) x (SNode b@(B cap weights2) sequence)
+                | x <= cap = SNode (B (cap - x) (weights2 ++ [x])) sequence
+                | otherwise = SNode b (aux (B w []) x sequence)
 
 seqToList:: Sequence -> [Bin]
 seqToList _ = undefined
