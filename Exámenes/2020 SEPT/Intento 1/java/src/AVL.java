@@ -8,6 +8,7 @@ import dataStructures.list.List;
 import dataStructures.list.LinkedList;
 
 import java.util.Iterator;
+import java.util.NoSuchElementException;
 
 
 class Bin {
@@ -34,10 +35,11 @@ class Bin {
 
     // returns an iterable through weights of objects included in this bin
     public Iterable<Integer> objects() {
-        // todo
-        //  SOLO PARA ALUMNOS SIN EVALUACION CONTINUA
-        //  ONLY FOR STUDENTS WITHOUT CONTINUOUS ASSESSMENT
-        return null;
+        return new Iterable<Integer>() {
+            public Iterator<Integer> iterator() {
+                return weights.iterator();
+            }
+        };
     }
 
     public String toString() {
@@ -129,77 +131,46 @@ public class AVL {
     }
 
     // adds a new bin at the end of right spine.
-    /*
-    private void addNewBin(Bin bin) {
-        if (root == null){
-            root = new Node();
-            root.bin = bin;
-            root.left = new Node();
-            root.right = new Node();
-            root.setHeight();
-            root.setMaxRemainingCapacity();
-        }
-        else {
-            addNewBinRec(bin, root);
-        }
-    }
 
-    private void addNewBinRec(Bin bin, Node root) {
-        if (root.right == null) {
-            root.right = new Node();
-            root.right.bin = bin;
-            root.right.left = new Node();
-            root.right.right = new Node();
-            root.right.setHeight();
-            root.right.setMaxRemainingCapacity();
-        }
-        else {
-            addNewBinRec(bin, root.right);
-            if (height(root.right) - height(root.left) > 1){
-                root.rotateLeft();
-                root.left.setMaxRemainingCapacity();
-                root.left.setHeight();
-                root.right.setMaxRemainingCapacity();
-                root.right.setHeight();
-            }
-        }
-    }
-    */
     private void addNewBin(Bin bin) {
-        // todo
         root = addNewBinRec(bin, root);
     }
 
-    private Node addNewBinRec(Bin bin, Node root){
-        if(root == null){
+    private Node addNewBinRec(Bin bin, Node root) {
+        if (root == null) {
+            root = new Node();
             root.bin = bin;
             return root;
-        } else if(root.right == null) {
+        }
+        else if (root.right == null) {
+            root.right = new Node();
             root.right.bin = bin;
-        } else {
-            root.right = addNewBinRec(bin, root.right);
-
-            if(height(root.right) - height(root.left) > 1){
-                root = root.rotateLeft();
-            }
+            root.right.setHeight();
+            root.right.setMaxRemainingCapacity();
+        }
+        else{
+                root.right = addNewBinRec(bin, root.right);
+                if (height(root.right) - height(root.left) > 1){
+                    root.rotateLeft();
+                }
         }
         return root;
     }
 
+
     // adds an object to first suitable bin. Adds
     // a new bin if object cannot be inserted in any existing bin
     public void addFirst(int initialCapacity, int weight) {
-        if (weight > maxRemainingCapacity(root)){
+        addFirstRec(initialCapacity, weight, root);
+    }
+
+    private void addFirstRec (int initialCapacity, int weight, Node n) {
+        if (root == null || weight > maxRemainingCapacity(root)){
             Bin b = new Bin(initialCapacity);
             b.addObject(weight);
             addNewBin(b);
         }
-        else
-            addFirstRec(initialCapacity, weight, root);
-    }
-
-    private void addFirstRec (int initialCapacity, int weight, Node n) {
-        if (maxRemainingCapacity(root.left) >= weight)
+        else if (maxRemainingCapacity(root.left) >= weight)
             addFirstRec(initialCapacity, weight, root.left);
         else if (root.bin.remainingCapacity() >= weight){
             root.bin.addObject(weight);
@@ -292,9 +263,34 @@ class LinearBinPacking {
     }
 	
 	public static Iterable<Integer> allWeights(Iterable<Bin> bins) {
-        // todo
-        //  SOLO PARA ALUMNOS SIN EVALUACION CONTINUA
-        //  ONLY FOR STUDENTS WITHOUT CONTINUOUS ASSESSMENT
-        return null;		
+        return new Iterable<Integer>() {
+            @Override
+            public Iterator<Integer> iterator() {
+                return new Iterator<Integer>() {
+                    private Iterator<Bin> binIterator = bins.iterator(); // Iterator para los bins
+                    private Iterator<Integer> weightIterator = null; // Iterator para los pesos de los bins
+
+                    @Override
+                    public boolean hasNext() {
+                        // Si hay un iterador de pesos actual que tenga elementos, o si el binIterator tiene más elementos
+                        return (weightIterator != null && weightIterator.hasNext()) || binIterator.hasNext();
+                    }
+
+                    @Override
+                    public Integer next() {
+                        // Si no hay más pesos en el bin actual, avanzar al siguiente bin
+                        if (weightIterator == null || !weightIterator.hasNext()) {
+                            if (!binIterator.hasNext()) {
+                                throw new NoSuchElementException();
+                            }
+                            // Avanzamos al siguiente bin y obtenemos su iterador de pesos
+                            Bin currentBin = binIterator.next();
+                            weightIterator = currentBin.objects().iterator(); // Suponiendo que objects() devuelve Iterable<Integer>
+                        }
+                        return weightIterator.next();
+                    }
+                };
+            }
+        };
 	}
 }
