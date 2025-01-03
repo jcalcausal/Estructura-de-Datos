@@ -116,11 +116,11 @@ linearBinPacking w (x:xs)
                 | otherwise = SNode b (aux (B w []) x sequence)
 
 seqToList:: Sequence -> [Bin]
-seqToList _ = undefined
+seqToList SEmpty = []
+seqToList (SNode b seq) = [b] ++ seqToList seq
 
 addAllFold:: [Weight] -> Capacity -> AVL 
-addAllFold _ _ = undefined
-
+addAllFold weights capacity = foldl (\avl weight -> addFirst capacity weight avl) Empty weights
 
 
 {- No modificar. Do not edit -}
