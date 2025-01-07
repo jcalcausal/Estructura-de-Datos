@@ -42,7 +42,6 @@ representante v d
     where
         Just valOfV = D.valueOf v d 
 
-
 -- Solo para evaluación continua / only for part time students
 kruskals :: (Ord a, Ord w) => WeightedGraph a w -> [[WeightedEdge a w]]
 kruskals = undefined
