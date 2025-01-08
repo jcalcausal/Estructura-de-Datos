@@ -22,14 +22,14 @@ kruskal wg = kruskalAux dict pq []
     where 
         pq = foldr g Q.empty (edges wg)
          where
-            g edge solAc = Q.enqueue edge solAc
+            g solAc edge = Q.enqueue edge solAc
         dict = foldr f D.empty (vertices wg)
-         where f vertex solAc = D.insert vertex vertex solAc
+         where f solAc vertex = D.insert vertex vertex solAc
 
 kruskalAux :: (Ord a, Ord w) => D.Dictionary a a -> Q.PQueue (WeightedEdge a w) -> [WeightedEdge a w] -> [WeightedEdge a w]
 kruskalAux d pq solAc 
     | Q.isEmpty pq     = solAc
-    | not areConnected = kruskalAux (D.insert (representante dst d) org d) (Q.dequeue pq) [(WE org w dst)]++solAc 
+    | not areConnected = kruskalAux(D.insert (representante dst d) org d (Q.dequeue pq)) [(WE org w dst)] ++ solAc 
     | otherwise        = kruskalAux d (Q.dequeue pq) solAc
     where
         (WE org w dst) = Q.first pq 
