@@ -25,7 +25,8 @@ updateEdge x y p ((E x' p' y'):xs)
 	| otherwise = (E x' p' y') : updateEdge x y p xs
 
 updateEdges :: (Eq a) => Path (WDiEdge a Integer) -> Integer -> [WDiEdge a Integer] -> [WDiEdge a Integer]
-updateEdges = undefined
+updateEdges [] _ edges = edges
+updateEdges ((E x w y):xs) p edges = updateEdges xs p (updateEdge x y p edges)
 
 addFlow :: (Eq a) => a -> a -> Integer -> [WDiEdge a Integer] -> [WDiEdge a Integer]
 addFlow = undefined
