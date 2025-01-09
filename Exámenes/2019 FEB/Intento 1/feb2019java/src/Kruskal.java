@@ -24,10 +24,39 @@ import dataStructures.set.HashSet;
 
 public class Kruskal {
 	public static <V,W> Set<WeightedEdge<V,W>> kruskal(WeightedGraph<V,W> g) {
+		// Inicializar diccionario
+		Dictionary<V,V> dict= new HashDictionary<>();
+		for (V v : g.vertices())
+			dict.insert(v,v);
 
-		// COMPLETAR
-		
-		return null;
+		//Inicializamos la cola de prioridad
+		PriorityQueue<WeightedEdge<V,W>> pq = new LinkedPriorityQueue<>();
+		for (WeightedEdge<V,W> edge : g.edges())
+			pq.enqueue(edge);
+
+		//Construimos la solución
+		Set<WeightedEdge<V,W>> sol = new HashSet<>();
+		while (!pq.isEmpty()){
+			WeightedEdge<V,W> edge = pq.first();
+			V org = edge.source();
+			V dst = edge.destination();
+			if (!representante(org, dict).equals(representante(dst, dict))){
+				dict.insert(representante(dst, dict), org);
+				sol.insert(edge);
+			}
+			pq.dequeue();
+		}
+		return sol;
+	}
+
+	private static <V,W> V representante (V vertex, Dictionary<V,V> d){
+		V res;
+		if (d.valueOf(vertex).equals(vertex)){
+			res = vertex;
+		} else {
+			res = representante(d.valueOf(vertex), d);
+		}
+		return res;
 	}
 
 	// Sólo para evaluación continua / only for part time students
