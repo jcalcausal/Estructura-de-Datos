@@ -6,6 +6,7 @@ import dataStructures.set.AVLSet;
 import dataStructures.set.Set;
 import dataStructures.tuple.Tuple2;
 
+import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 /**
@@ -99,13 +100,31 @@ public class HashBiDictionary<K,V> implements BiDictionary<K,V>{
 	}
 	
 	public <W> BiDictionary<K, W> compose(BiDictionary<V,W> bdic) {
-		// TODO
-		return null;
+		BiDictionary<K, W> res = new HashBiDictionary<>();
+		for (Tuple2<K,V> t : bKeys.keysValues()) {
+			if (bdic.isDefinedKeyAt(t._2()))
+				res.insert(t._1(), bdic.valueOf(t._2()));
+		}
+		return res;
 	}
 		
 	public static <K extends Comparable<? super K>> boolean isPermutation(BiDictionary<K,K> bd) {
-		// TODO
-		return false;
+		Set <K> set1 = new AVLSet<>();
+		Set <K> set2 = new AVLSet<>();
+		boolean isPermutation = true;
+
+		for (Tuple2<K,K> t : bd.keysValues()) {
+			set1.insert(t._1());
+			set2.insert(t._2());
+		}
+
+		Iterator<K> it = set1.iterator();
+		while (it.hasNext() && isPermutation) {
+			if (!set2.isElem(it.next())) {
+				isPermutation = false;
+			}
+		}
+		return isPermutation;
 	}
 	
 	// Solo alumnos con evaluación por examen final.
