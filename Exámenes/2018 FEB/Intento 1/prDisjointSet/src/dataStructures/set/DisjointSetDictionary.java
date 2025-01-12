@@ -21,7 +21,7 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
      * Inicializa las estructuras necesarias.
      */
     public DisjointSetDictionary() {
-        // TODO
+        dic = new AVLDictionary<>();
     }
 
     /**
@@ -29,8 +29,7 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
      */
     @Override
     public boolean isEmpty() {
-        // TODO
-        return false;
+        return dic.isEmpty();
     }
 
     /**
@@ -38,8 +37,7 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
      */
     @Override
     public boolean isElem(T elem) {
-        // TODO
-        return false;
+        return dic.isDefinedAt(elem);
     }
 
     /**
@@ -48,8 +46,7 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
 
     @Override
     public int numElements() {
-        // TODO
-        return 0;
+        return dic.size();
     }
 
     /**
@@ -59,7 +56,9 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
      */
     @Override
     public void add(T elem) {
-        // TODO
+        if (!isElem(elem)) {
+            dic.insert(elem, elem);
+        }
     }
 
     /**
@@ -68,8 +67,13 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
      * devuelve {@code null}.
      */
     private T root(T elem) {
-        // TODO
-        return null;
+        if (elem == null || !isElem(elem))
+            return null;
+        else {
+            while (dic.valueOf(elem) != null && !dic.valueOf(elem).equals(elem))
+                elem = dic.valueOf(elem);
+        }
+        return elem;
     }
 
     /**
@@ -77,7 +81,8 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
      * de la clase de equivalencia a la que pertenece.
      */
     private boolean isRoot(T elem) {
-        // TODO
+        if (elem != null && isElem(elem))
+            return (elem.equals(dic.valueOf(elem)));
         return false;
     }
 
@@ -87,7 +92,8 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
      */
     @Override
     public boolean areConnected(T elem1, T elem2) {
-        // TODO
+        if (elem1 != null && elem2 != null && isElem(elem1) && isElem(elem2))
+            return (root(elem1).equals(root(elem2)));
         return false;
     }
 
@@ -98,8 +104,15 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
      */
     @Override
     public List<T> kind(T elem) {
-        // TODO
-        return null;
+        if (elem == null || !isElem(elem))
+            return null;
+        List<T> res = new ArrayList<>();
+        for (T x : dic.keys()) {
+            if (areConnected(elem,x)){
+                res.append(x);
+            }
+        }
+        return res;
     }
 
     /**
@@ -107,11 +120,34 @@ public class DisjointSetDictionary<T extends Comparable<? super T>> implements D
      * alguno de los dos argumentos no esta en el conjunto lanzara una excepcion
      * {@code IllegalArgumenException}.
      */
-    @Override
+
+      @Override
     public void union(T elem1, T elem2) {
-        // TODO
+        if (!isElem(elem1) || !isElem(elem2)) {
+            throw new IllegalArgumentException("Alguno de los elementos no está en el conjunto");
+        } else {
+            if (root(elem1).compareTo(root(elem2)) > 0) {
+                dic.insert(root(elem1), root(elem2));
+            } else {
+                dic.insert(root(elem2), root(elem1));
+            }
+        }
     }
 
+/*
+    @Override
+    public void union(T elem1, T elem2) {
+        if (!dic.isDefinedAt(elem1) || !dic.isDefinedAt(elem2)) {
+            throw new IllegalArgumentException("Alguno de los elementos no está en el conjunto");
+        } else {
+            if (root(elem1).compareTo(root(elem2)) > 0) {
+                dic.insert(root(elem1), root(elem2));
+            } else {
+                dic.insert(root(elem2), root(elem1));
+            }
+        }
+    }
+*/
     // ====================================================
     // A partir de aqui solo para alumnos a tiempo parcial
     // que no sigan el proceso de evaluacion continua.
