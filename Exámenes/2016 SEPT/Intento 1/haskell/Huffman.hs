@@ -1,7 +1,7 @@
 -- | Data Structures
 -- | September, 2016
 -- |
--- | Student's name: Ángel Manuel Soria Gil
+-- | Student's name: Juan Carlos Alcausa Luque
 -- | Student's group: Doble Grado Matemáticas e igeniería informática
 
 module Huffman where
