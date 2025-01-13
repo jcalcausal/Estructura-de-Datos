@@ -48,17 +48,48 @@ size (V n _) = n
 -------------------------------------------------------------------------------
 -- | Exercise c.
 
-simplify :: Tree a -> Tree a -> Tree a
-simplify = undefined
+simplify :: (Eq a) => Tree a -> Tree a -> Tree a
+simplify (Unif x) (Unif y)
+    | x == y = Unif x
+    | otherwise = Node (Unif x) (Unif y)
+simplify (Node l1 r1) (Node l2 r2) = Node (Node l1 r1) (Node l2 r2)
+simplify (Unif x) (Node l2 r2) = Node (Unif x) (Node l2 r2)
+simplify (Node l1 r1) (Unif x) = Node (Node l1 r1) (Unif x)
+
 -------------------------------------------------------------------------------
 -- | Exercise d.
 
-get = undefined
+get :: Int -> Vector a -> a
+get i (V n (Unif x))
+    | i < 0 || i >= n = error "Índice fuera de rango"
+    | otherwise = error "Índice fuera de rango"
+get i (V n (Node lt rt))
+    | i < 0 || i >= n = error "Índice fuera de rango"
+    | i < mid = get i (V mid lt)
+    | otherwise = get (i - mid) (V mid rt)
+    where
+        mid = n `div` 2
 
 -------------------------------------------------------------------------------
 -- | Exercise e.
 
-set = undefined
+set :: (Eq a) => Int -> a -> Vector a -> Vector a
+set i x (V n tree)
+    | i < 0 || i >= n = error "Índice fuera de rango"
+    | otherwise = V n (setTree i x n tree)
+
+setTree :: (Eq a) => Int -> a -> Int -> Tree a -> Tree a
+setTree i x n (Unif y)
+    | n == 1 = (Unif y)
+    | i < mid = simplify (setTree i x mid (Unif y)) (Unif y)
+    | otherwise = simplify (Unif y) (setTree (i-n) x mid (Unif y))
+    where
+        mid = n `div` 2
+setTree i x n (Node lt rt)
+    | i < mid = simplify (setTree i x mid lt) rt
+    | otherwise   = simplify lt (setTree (i-n) x mid rt)
+  where
+    mid = n `div` 2
 
 -------------------------------------------------------------------------------
 -- | Exercise f.
@@ -67,21 +98,26 @@ set = undefined
 --
 --    operation        complexity class
 --    ---------------------------------
---    vector
+--    vector                       O(1)
 --    ---------------------------------
---    size
+--    size                         O(1)
 --    ---------------------------------
---    simplify
+--    simplify                     O(1)
 --    ---------------------------------
---    get
+--    get                      O(log n)
 --    ---------------------------------
---    set
+--    set                      O(log n)
 --    ---------------------------------
 
 -------------------------------------------------------------------------------
 -- | Exercise g.
 
-mapVector = undefined
+mapVector = :: (Eq a, Eq b) => (a -> b) -> Vector a -> Vector b 
+mapVector f (V size tree) = (V size (mapTree f tree))
+
+mapTree :: (Eq a, Eq b) => (a -> b) -> Tree a -> Tree b 
+mapTree f (Unif x)     = (Unif (f x))
+mapTree f (Node lt rt) = simplify (mapTree f lt) (mapTree f rt) 
 
 -------------------------------------------------------------------------------
 -- | Exercise h.
